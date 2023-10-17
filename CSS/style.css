@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+
+h2{
+  color: #38751e;
+}
+ body {
+  background-color: #C1D8C3;
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Georgia;
+  text-align: center;
+  margin: 0px;
+}  
+ h1 {
+  color: #cf2102;
+  font-size: 30px;
+  font-family: Impact;
+}
+ h2{
+  color: #650000;
+  font-size: 20px;
+  font-weight:600;
+  font-family: Georgia ;
+}
+  a{
+  text-decoration: none;
+  color: #6A9C89;
+}
